@@ -1,0 +1,15 @@
+2021-08-30 12:25:30 jdbc[36]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "JORNADA" not found; SQL statement:
+select * from jornada [42102-200]
+2021-08-30 12:26:00 jdbc[36]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "JORNADA" not found; SQL statement:
+select * from jornada [42102-200]
+2021-08-30 12:27:01 jdbc[36]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "JORNADAJORNADA_TRABALHO_AUD" not found; SQL statement:
+select * from jornadaJORNADA_TRABALHO_AUD [42102-200]
+2021-08-30 12:27:19 jdbc[36]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "JORNADAJORNADA_TRABALHO_AUD" not found; SQL statement:
+select * from jornadaJORNADA_TRABALHO_AUD [42102-200]
+2021-08-30 12:27:43 jdbc[36]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "JORNADA" not found; SQL statement:
+select * from jornada [42102-200]
